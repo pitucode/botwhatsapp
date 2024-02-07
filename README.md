@@ -12,9 +12,7 @@
 
 This Script is for everyone, original base by [`BochilGaming`](https://github.com/BochilGaming/games-wabot-md)
 
-<p align="center">
-      <img src="https://i.ibb.co/DR4vjVN/nother.jpg" width="55%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+
 
 If you want to add Node Modules manually, download here : [`node_modules`](https://cutt.ly/zeren-node-modules)
 
